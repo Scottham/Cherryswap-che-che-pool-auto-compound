@@ -36,7 +36,7 @@ abiCode: Staking pool contract abi code. Set default to be copied from the contr
 
 wallet_address: Your contract's public address
 
-private_key: Your contract's secret  key
+private_key: Your contract's(wallet) secret key
 
 harvest_interval: The time between a restake transaction and a harvest transaction (in minutes). Set default to 720 minutes
 ```
