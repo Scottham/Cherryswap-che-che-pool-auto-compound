@@ -32,6 +32,6 @@ abiCode: Staking pool contract abi code. Copied from the contract in okexchain
 
 wallet_address: Your contract's public address
 
-private_key:Your contract's secret  key
+private_key: Your contract's secret  key
 
-harvest_interval: the time between a restake transaction and a harvest transaction (in minutes). Set default to 720 minutes
+harvest_interval: The time between a restake transaction and a harvest transaction (in minutes). Set default to 720 minutes
