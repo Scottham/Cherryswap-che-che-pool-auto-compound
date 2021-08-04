@@ -1,5 +1,5 @@
 # Cherryswap-che-che-pool-auto-compound
-auto compound che-che staking profit in Cherryswap
+Auto compound che-che staking profit in Cherryswap
 
 ## Features
 
