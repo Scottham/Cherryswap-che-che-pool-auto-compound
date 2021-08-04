@@ -1,7 +1,7 @@
 # Cherryswap che-che pool auto-compound
 Auto compound che-che staking profit in Cherryswap
-## I strongly recommend do not using your main wallet(contract), instead, using extra wallet(contract) with relatively small amount of money. 
-## 强烈建议不要使用你主要的defi钱包（合约），相对的，建议使用只有小额资金的额外的钱包（合约）。
+## I strongly recommend do not using your main wallet(contract address), instead, using extra wallet(contract address) with relatively small amount of money. 
+## 强烈建议不要使用你主要的defi钱包（合约地址），相对的，建议使用只有小额资金的额外的钱包（合约地址）。
 
 ## Features
 
