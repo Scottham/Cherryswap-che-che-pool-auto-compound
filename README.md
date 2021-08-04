@@ -15,6 +15,7 @@ Pyhonr 3 packages:
 
 ## Usage
 - Firstly, you have to deposit a certain amount of che to the che-che pool (base money)
+- Download settings.py, harvest_and_restake.py, auto_compound.py
 - Setting up the settings.py (secret key, wallet address, restake time et cl.)
 
 To use:
@@ -35,3 +36,5 @@ wallet_address: Your contract's public address
 private_key: Your contract's secret  key
 
 harvest_interval: The time between a restake transaction and a harvest transaction (in minutes). Set default to 720 minutes
+
+### 
