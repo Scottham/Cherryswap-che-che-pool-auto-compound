@@ -14,7 +14,7 @@ Pyhonr 3 packages:
 - time
 
 ## Usage
-- Firstly, you have to deposit a certain amount of che to the che-che pool (base money)
+- Firstly, you have to deposit a certain amount of che to the che-che pool (base money), and manually approve the staking and harvesting transcations.
 - Download settings.py, harvest_and_restake.py, auto_compound.py
 - Setting up the settings.py (secret key, wallet address, restake time et cl.)
 
@@ -29,7 +29,7 @@ rpc: OkexChain rpc address. Set default to 'https://exchainrpc.okex.org'
 
 contract_address: Cherryswap che-che staking pool address. Set default to '0x9Ab8BCf67fE8d8D2aD27D42Ec2A0fD5C206DAE60'
 
-abiCode: Staking pool contract abi code. Copied from the contract in okexchain
+abiCode: Staking pool contract abi code. Set default to be copied from the contract in okexchain
 
 wallet_address: Your contract's public address
 
