@@ -9,8 +9,7 @@ Auto compound che-che staking profit in Cherryswap
 
 ## Requirements
 
-Python 3
-Pyhonr 3 packages:
+- Python 3 and Python 3 packages:
 - web3
 - json
 - time
