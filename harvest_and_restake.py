@@ -44,7 +44,7 @@ def harvest_and_restake(is_harvest, restake_amount):
             hx = web3.eth.sendRawTransaction(sign_txn.rawTransaction)
             break
         except ValueError:
-            print("Nonce errot, Trying again")
+            print("Nonce error, Trying again")
             txn = contract.functions.deposit(deposit_amount).buildTransaction({
                     'gas': gas,
                     'gasPrice': gasPrice,
