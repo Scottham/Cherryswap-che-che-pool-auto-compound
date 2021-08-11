@@ -13,6 +13,7 @@ Auto compound che-che staking profit in Cherryswap
 - web3
 - json
 - time
+- requests (for fetching contractAbi)
 
 ## Usage
 - Firstly, you have to deposit a certain amount of che to the che-che pool (base money), and manually approve the staking and harvesting transcations.
@@ -31,7 +32,7 @@ rpc: OkexChain rpc address. Set default to 'https://exchainrpc.okex.org'
 
 contract_address: Cherryswap che-che staking pool address. Set default to '0x9Ab8BCf67fE8d8D2aD27D42Ec2A0fD5C206DAE60'
 
-abiCode: Staking pool contract abi code. Set default to be copied from the contract in okexchain
+
 
 wallet_address: Your contract's public address
 
