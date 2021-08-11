@@ -16,7 +16,7 @@ def harvest_and_restake(is_harvest, restake_amount):
         print('Rpc Connection Failed')
 
     
-    contract = web3.eth.contract(settings.contract_address, abi=settings.abiCode)
+    contract = web3.eth.contract(settings.contract_address, abi=settings.get_contractAbi(settings.contract_address))
     
     gas = settings.gas
     gasPrice = int(web3.eth.gas_price*settings.gas_price_multiples)
