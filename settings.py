@@ -31,7 +31,7 @@ gas = int(20000*10)
 gas_price_multiples = 1.5
 
 # time settings in minutes
-harvest_interval = 5
+harvest_interval = 720
 
 transaction_timeout = 3
 
