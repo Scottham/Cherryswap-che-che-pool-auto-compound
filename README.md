@@ -22,7 +22,7 @@ Auto compound che-che staking profit in Cherryswap
 
 To use:
 ```sh
-python3 harvest_and_restake.py
+python3 auto_compound.py
 ```
 
 
